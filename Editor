@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <style>
+        body{
+            background-color:white;
+        }
+        *{margin:0;
+        }
+        
+        #titulo{
+            background-color:black;
+            height:50px; 
+            border-bottom:2px solid darkblue;      
+                    }
+      #titulo h2{
+    color:blue;
+    text-align:center;  
+    
+    </style>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="editor.css"/>
+    <title>Título da página</title>
+</head>
+<body>
+   <div>
+       <form id="titulo">
+           <h2>fire next</h2>
+       </form>
+   </div> 
+</body>
+</html>
